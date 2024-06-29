@@ -126,6 +126,6 @@ Selfb.on('ready', () => {
   
   //spammer
   
-  Selfb.login(system.Tokens.SelfToken).catch(e => {
+  Selfb.login(system.token).catch(e => {
       console.log(`${Selfb.user.tag} adlı hesaba giriş yapılamadı.`)
   })
