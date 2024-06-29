@@ -61,7 +61,7 @@ Selfb.on('ready', () => {
   
           const executorId = entry.executor.id;
   
-          const isAuthorized =  [""] //safe list
+          const isAuthorized =  [""].includes(executorId); //safe list
   
           if (isAuthorized) {
               let log1 = client.channels.cache.find(x => x.name.includes("guard") || x.name == "guard-log");
