@@ -1,5 +1,5 @@
 # self-url-spammer
-User token ile çalışan en sexy spammer, cartel dostum sağolsun onun bilgisi ve yardımıyla geliştirildi normal bot halinin spammer versiyonu cartele aittir. [Cartel](https://github.com/cartelfx)
+User token ile çalışan en sexy spammer, cartel dostum sağolsun onun bilgisi ve yardımıyla geliştirildi normal bot halinin spammer versiyonu cartele aittir. [Cartel](https://github.com/cartelfx) Ha bu arada bana patlak botçu diyen altyapıcı akıllı dostlarıma selam olsun :D bu spammerıda müsait bir yerlerine monte edebilirsiniz iyi günler altyapıcılar ❤️
 
 ![Profil View Count](https://komarev.com/ghpvc/?username=Acerhizmq&color=000000)&nbsp;
 [![GitHub Acerhizm](https://img.shields.io/github/followers/Acerhizmq?label=follow&style=social)](https://github.com/Acerhizmq)&nbsp;
